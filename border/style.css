@@ -1,0 +1,32 @@
+h1{
+    margin: 20px;
+    margin-right: 570px;
+    border: solid 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgba(99, 20, 20, 0.7);
+}
+h2{
+    margin: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgba(60, 20, 10, 9);
+}
+p{
+    margin: 15px;
+    border: solid 3px color(srgb 0, 0, 0);
+    font-size: 25px;
+    font-family: fantasy;
+    color: rgba(500, 20, 20, 0.7);
+    background-color: black;
+    border: solid 5px;
+    border-color: rgba(500, 20, 20, 0.7);
+}
+li{
+    font-size: 30px;
+    font-family: cursive;
+    color: rgba(500, 20, 20, 0.7);
+    background-color: black;
+    margin: 10px;
+    margin-right: 800px;
+    padding: 20px;
+    border: solid 5px;
+}

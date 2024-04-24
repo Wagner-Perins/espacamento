@@ -1,0 +1,19 @@
+p {
+    font-size: 25px; 
+    color: rgba(124, 45, 8, 0.9);
+}
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    color: rgba(524, 54, 9, 0.9)
+}
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgba(200,52, 31, 0.9);
+}
+li {
+    font-size: 20px; font-family: 'Times New Roman', Times, serif; 
+    color: rgba(620, 21, 30, 0.9);
+    background-color: rgba(20, 20, 20, 0.9);
+    margin: 20px; 
+    margin-right: 900px;
+}
